@@ -15,4 +15,20 @@ so please tell your friends that like cats to download this!!!!!!
 - ability to change search engine (google/bing/duckduckgo/yahoo)
 - a custom new tab page that shows interesting facts with a search bar
 ## discord server
-[![click here to join and download extensions there!!]([[https://discord.gg/GrZa3BmDpW)]()
+
+you can download extensions there
+
+https://discord.gg/GrZa3BmDpW
+
+## platforms
+
+windows = available
+
+linux = available
+
+android = available but in another repo since it uses a diff coding lang
+
+ios = never, its not open source
+
+macos = not available
+
