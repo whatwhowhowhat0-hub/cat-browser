@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="" width="40" height="40"> cat browser
+  <img src="https://raw.githubusercontent.com/whatwhowhowhat0-hub/cat-browser/refs/heads/main/soggycat.png" width="40" height="40"> cat browser
 </h1>
 
 
@@ -31,5 +31,6 @@ android = available but in another repo since it uses a diff coding lang
 ios = never, its not open source
 
 macos = not available
+
 
 
