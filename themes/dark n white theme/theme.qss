@@ -1,0 +1,144 @@
+/* === DARK MODE === */
+QMainWindow,
+QWidget {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+/* Toolbar */
+QToolBar {
+    background-color: #252525;
+    border-bottom: 1px solid #3c3c3c;
+}
+
+/* Buttons */
+QPushButton {
+    background-color: #3c3c3c;
+    color: white;
+    border: 1px solid #4a4a4a;
+}
+
+QPushButton:hover {
+    background-color: #4a5a6a;
+}
+
+QPushButton:pressed {
+    background-color: #5a6a7a;
+}
+
+/* URL Bar */
+QLineEdit {
+    background-color: #2d2d2d;
+    color: white;
+    border: 1px solid #3c3c3c;
+}
+
+QLineEdit:focus {
+    border: 1px solid #0078d4;
+    background-color: #252525;
+}
+
+/* Tabs */
+QTabWidget::pane {
+    background-color: #1e1e1e;
+}
+
+QTabBar::tab {
+    background-color: #3c3c3c;
+    color: #ccc;
+}
+
+QTabBar::tab:selected {
+    background-color: #1e1e1e;
+    color: white;
+}
+
+QTabBar::tab:hover:!selected {
+    background-color: #4a4a4a;
+}
+
+/* Dropdowns */
+QComboBox {
+    background-color: #2d2d2d;
+    color: white;
+    border: 1px solid #3c3c3c;
+}
+
+QComboBox:hover {
+    background-color: #3c3c3c;
+}
+
+QComboBox::drop-down {
+    border: none;
+}
+
+QComboBox QAbstractItemView {
+    background-color: #2d2d2d;
+    color: white;
+    border: 1px solid #3c3c3c;
+}
+
+/* Checkboxes */
+QCheckBox {
+    color: white;
+}
+
+QCheckBox::indicator {
+    background-color: #2d2d2d;
+    border: 1px solid #3c3c3c;
+}
+
+QCheckBox::indicator:checked {
+    background-color: #0078d4;
+    border: 1px solid #106ebe;
+}
+
+/* Scrollbars */
+QScrollBar:vertical {
+    background-color: #2d2d2d;
+    width: 12px;
+}
+
+QScrollBar::handle:vertical {
+    background-color: #3c3c3c;
+}
+
+QScrollBar::handle:vertical:hover {
+    background-color: #4a4a4a;
+}
+
+/* Group Boxes */
+QGroupBox {
+    color: white;
+    border: 1px solid #3c3c3c;
+}
+
+/* Text Edit */
+QTextEdit {
+    background-color: #2d2d2d;
+    color: white;
+    border: 1px solid #3c3c3c;
+}
+
+/* Labels */
+QLabel {
+    color: white;
+}
+
+/* Dialog */
+QDialog {
+    background-color: #1e1e1e;
+    color: white;
+}
+
+/* Menu */
+QMenu {
+    background-color: #2d2d2d;
+    color: white;
+    border: 1px solid #3c3c3c;
+}
+
+QMenu::item:selected {
+    background-color: #0078d4;
+}
+
