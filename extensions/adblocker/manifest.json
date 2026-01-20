@@ -1,0 +1,6 @@
+{
+    "name": "Adblocker for cat browser",
+    "description": "blocks ads (no shit sherlock)",
+    "version": "1.0",
+    "script": "script.js"
+}
